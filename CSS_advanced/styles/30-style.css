@@ -385,7 +385,7 @@ a:active {
   position: relative;
 }
 
-.card-title .card-work a::after {
+.card-work .card-title a::after {
   position: absolute;
   top: 0;
   right: 0;
